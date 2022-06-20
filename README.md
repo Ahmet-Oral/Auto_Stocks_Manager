@@ -1,5 +1,10 @@
 # Auto Stocks Manager
+##### Project for class:
+Software Validation, Verification and Testing 
+##### Instructor:
+Dr. Savaş ÖZTÜRK
 
+## Overview
 Simple algorithm to buy or sell currencies by analyzing currency prices. 
 - Creates a dummy balance account at Google Firebase
 - Fetches currency prices from "döviz.com"
